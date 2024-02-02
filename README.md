@@ -1,8 +1,1 @@
-- 👋 Hi,
-- 👀 How to start:
-  - Install and configure docker
-  - Clone repo on your local machine
-  - cd 'project dir'
-  - first time: docker-compose up -d --build
-  - next times: docker-compose up -d
-- 🌱 Enjoy the process
+
